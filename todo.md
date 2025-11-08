@@ -13,5 +13,7 @@ a8"    `Y88  88    88     88    88     `8b     d8'
  aa,    ,88                                d8'      
   "Y8bbdP"                                d8'       
 
-- fix config to accept multiple api providors, also expand llm.py to accomidate them as well (maybe seperate into openai.py anthropic.py google.py and ollama.py)
+- fix config to accept multiple api sources, also expand llm.py to use them as well (maybe make distinct files ie: openai.py anthropic.py google.py and ollama.py)
 - Create auto readme.md command
+- Cool future work: create some type of Evals folder that automatically runs evals on various commit diffs and checks its performance using llm as a judge.
+

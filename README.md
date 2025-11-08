@@ -1,7 +1,7 @@
 # Gitify
 
 TDLR: Use LLM to create commit messages quickly and accurately.  
-
+```
              88           88     ad88               
              ""    ,d     ""    d8"                 
                    88           88                  
@@ -11,7 +11,7 @@ TDLR: Use LLM to create commit messages quickly and accurately.
  `"YbbdP"Y8  88    "Y888  88    88         Y88'     
  aa,    ,88                                d8'      
   "Y8bbdP"                                d8'       
-
+```
 
 ## Project Description
 
